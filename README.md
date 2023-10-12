@@ -8,7 +8,8 @@ This project is a clone of the WhatsApp iOS application's user interface, develo
 
 [View Live Demo](https://mushkir.github.io/Tailwind-UI-Sample)
 
-## Tech Stack
+## Internship
+This internship is provided by CyberDude Networks Pvt. Ltd. as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by Mr. Anbuselvan Rocky (https://github.com/anburocky3). For more information, you can contact CyberDude Networks here (https://www.cyberdudenetworks.com)
 
 - HTML: The project's structure and layout are built using HTML to create the user interface.
 
